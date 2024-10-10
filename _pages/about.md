@@ -9,7 +9,7 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rahul Vanukuri</title>
+    <title>Venkata Ravi Teja Sandram</title>
     <style>
         /* General Body Style */
         body {
@@ -164,7 +164,7 @@ redirect_from:
 <div class="content">
     <!-- Biography Section -->
     <h2>Biography</h2>
-    <p>I’m a Master student in the Computer Science department at The University of Texas at Arlington, where <a href="#">Dr. Debashri Roy</a> serves as my advisor. My research focuses on Large Language Models, Communication Signals, machine learning, and transformer models as well as generative models.</p>
+    <p>I’m a Master student in the Computer Science department at The University of Texas at Arlington. </p>
     
     <p>Before starting my masters, I accrued over 1 years of professional experience in India in numerous critical roles, including Data Engineer at <a href="https://www.bracbank.com/en/">ADP</a> and Analyst and testing expert for several Oracle Clients (<a href="https://www.cirt.gov.bd/">BGD e-GOV CIRT</a>) funded by companies like Deliotte and ADP. Additionally, I gained significant expertise in React js and Django, Machine Learning , and Large language models through my work with <a href="https://www.ibm.com/us-en/">Twist Lab and ciruculum</a> and <a href="https://kpmg.com/bd/en/home.html/">KPMG Bangladesh</a>, one of the Big Four accounting firms.</p>
     
