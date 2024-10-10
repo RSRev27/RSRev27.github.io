@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rahul Vanukuri"
+title                    : "Venkata Ravi Teja Sandram"
 title_separator          : "-"
-name                     : &name "Rahul Vanukuri"
+name                     : &name "Venkata Ravi Teja Sandram"
 description              : &description "Masters Student"
-url                      : https://rahulvanukuri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://rsrev27.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rahulvanukuri/rahulvanukuri.github.io"
+repository               : "RSRev27/RSRev27.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rahul Vanukuri"
+  name             : "Venkata Ravi Teja Sandram"
   avatar           : "My Picture.JPG"
   bio              : "Masters Student in Department of Computer Science at The University of Texas at Arlington"
   location         : "Arlington, Texas"
   employer         :
   pubmed           : 
   googlescholar    : ""
-  email            : "rxv6501@mavs.uta.edu"
+  email            : "vxs0570@mavs.uta.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rahulvanukuri"
+  github           : "rsrev27"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rahulvanukuri/"
+  linkedin         : "venkataravitejasandram/"
   orcid            : 
   pinterest        :
   soundcloud       :
